@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/WebDevFromScratch/rack_workshop
+  revision: 296a29340078797bea36d4f794b7da28428d4c5c
+  specs:
+    rate_limiter_pa (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -157,6 +163,7 @@ DEPENDENCIES
   jquery-rails
   pg
   rails (= 4.2.0)
+  rate_limiter_pa!
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
   spring
