@@ -25,6 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'unicorn'
 gem 'rate_limiter_pa', git: 'https://github.com/WebDevFromScratch/rack_workshop'
+gem 'dalli'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
